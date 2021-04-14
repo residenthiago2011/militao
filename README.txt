@@ -15,8 +15,6 @@ Feedback, bug reports, and comments are not only welcome, but strongly encourage
 
 /////////////////////////////////////////////////////////////////////////////////////////
 README-PT
-Miniport by HTML5 UP
-html5up.net | @n33co
 Gratuito para uso pessoal e comercial sob a licença CCA 3.0 (html5up.net/license)
 
 Um modelo de portfólio responsivo super simples. É apenas uma única página porque hey, às vezes
