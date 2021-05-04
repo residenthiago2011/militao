@@ -1,5 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,600,600italic,700');
 
 /*
 	Story by HTML5 UP
@@ -8107,4 +8108,66 @@ body.is-preload .items.onload-fade-in>*>.inner {
 
 #wrapper.divided>.invert:first-child {
     box-shadow: none !important;
+}
+
+
+/*********************************************************************************/
+
+
+/* Nav                                                                           */
+
+
+/*********************************************************************************/
+
+#nav {
+    background-color: #282828;
+    text-align: left;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: 10000;
+    cursor: default;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 3em;
+    color: #888;
+    font-weight: 300;
+    font-size: 13pt;
+}
+
+#nav ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    margin-bottom: 0;
+    list-style: disc;
+    padding-left: 1em;
+}
+
+#nav li {
+    display: inline-block;
+}
+
+#nav a {
+    position: relative;
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    outline: 0;
+}
+
+#nav a:hover {
+    color: #fff !important;
+}
+
+#nav a.active:before {
+    content: '';
+    display: block;
+    position: absolute;
+    bottom: -0.6em;
+    left: 50%;
+    margin-left: -0.75em;
+    border-left: solid 0.75em transparent;
+    border-right: solid 0.75em transparent;
+    border-top: solid 0.6em #282828;
 }
