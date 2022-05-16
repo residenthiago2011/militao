@@ -455,15 +455,15 @@ ul.social li a:before {
 }
 
 ul.social li a.fa-twitter {
-    background-color: #2DAAE4;
+    background-color: #1DA1F2;
 }
 
 ul.social li a.fa-facebook-f {
-    background-color: #3C5A98;
+    background-color: #4267B2;
 }
 
 ul.social li a.fa-facebook-messenger {
-    background-color: #00C6FF;
+    background-color: #00B2FF;
 }
 
 ul.social li a.fa-dribbble {
@@ -471,7 +471,7 @@ ul.social li a.fa-dribbble {
 }
 
 ul.social li a.fa-linkedin {
-    background-color: #006599;
+    background-color: #0077B5;
 }
 
 ul.social li a.fa-tumblr {
@@ -523,7 +523,11 @@ ul.social li a.fa-vimeo {
 }
 
 ul.social li a.fa-whatsapp {
-    background-color: chartreuse;
+    background-color: #25D366;
+}
+
+ul.social li a.fa-telegram {
+    background-color: #229ED9;
 }
 
 ul.social li a:hover {

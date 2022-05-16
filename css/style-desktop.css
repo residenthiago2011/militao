@@ -118,6 +118,30 @@ input[type="reset"].big,
     width: auto;
 }
 
+.box.style3 {
+    position: center;
+    left: 2em;
+    top: 2em;
+    margin: 0em 0 0em 0em;
+    max-width: none;
+    width: max-content;
+    height: auto;
+}
+
+.box.style3 h3 {
+    margin-bottom: 0.25em;
+}
+
+.box.style3 .image {
+    position: center;
+    left: 2em;
+    top: 2em;
+    margin: -4em 0 4em -4em;
+    max-width: none;
+    width: max-content;
+    height: auto;
+}
+
 
 /*********************************************************************************/
 
