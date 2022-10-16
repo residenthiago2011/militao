@@ -332,7 +332,7 @@ input[type="reset"],
     border: 0;
     outline: 0;
     cursor: pointer;
-    border-radius: 12px;
+    border-radius: 15px;
     text-shadow: -1px -1px 0.5px rgba(0, 0, 0, 0.5);
     overflow: hidden;
     box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.5), inset 0px 2px 1px 0px rgba(255, 255, 255, 0.75);
@@ -736,11 +736,11 @@ ol.default li {
 #top {}
 
 #top .image {
-    border-radius: 50%;
+    border-radius: 0%;
 }
 
 #top .image img {
-    border-radius: 50%;
+    border-radius: 0%;
 }
 
 #top p {}
