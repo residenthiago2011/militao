@@ -530,6 +530,10 @@ ul.social li a.fa-telegram {
     background-color: #229ED9;
 }
 
+ul.social li a.lens {
+    background-color: #ABFE2C;
+}
+
 ul.social li a:hover {
     top: -5px;
 }

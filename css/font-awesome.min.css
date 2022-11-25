@@ -1718,6 +1718,10 @@
     content: "\f198"
 }
 
+.lens:before {
+    content: url('../fonts/LENS-Only.svg');
+}
+
 .fa-envelope-square:before {
     content: "\f199"
 }
