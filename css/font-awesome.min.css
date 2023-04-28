@@ -1722,6 +1722,10 @@
     content: url('../fonts/LENS-Only.svg');
 }
 
+.status:before {
+    content:url('../fonts/Status-logo.svg');
+}
+
 .fa-envelope-square:before {
     content: "\f199"
 }

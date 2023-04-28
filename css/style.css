@@ -534,6 +534,10 @@ ul.social li a.lens {
     background-color: #ABFE2C;
 }
 
+ul.social li a.status {
+    background-color: #4360DF;
+}
+
 ul.social li a:hover {
     top: -5px;
 }
