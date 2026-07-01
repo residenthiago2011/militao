@@ -454,11 +454,11 @@ ul.social li a:before {
     transition: background-color .2s ease-in-out;
 }
 
-ul.social li a.fa-twitter {
-    background-color: #1DA1F2;
+ul.social li a.x-twitter {
+    background-color: #FAFAFA;
 }
 
-ul.social li a.fa-facebook-f {
+ul.social li a.fa-facebook {
     background-color: #4267B2;
 }
 
@@ -522,7 +522,7 @@ ul.social li a.fa-vimeo {
     background-color: #4C8AB0;
 }
 
-ul.social li a.fa-whatsapp {
+ul.social li a.whatsapp {
     background-color: #25D366;
 }
 
